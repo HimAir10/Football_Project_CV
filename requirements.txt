@@ -1,4 +1,7 @@
-#numpy==1.22.4
-opencv_python
-scikit_learn
+numpy
+opencv-python
+scikit-learn
 ultralytics
+torch
+scipy
+seaborn
