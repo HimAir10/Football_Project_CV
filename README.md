@@ -83,5 +83,5 @@ The goalkeeper is labeled "GK Left" if he's found on the left hand side of the f
 
 Further explanation of the model can be found in the jupyter notebook.
 =======
-# Football_object_detection_computer_vision
->>>>>>> 8fd417b3cd2607bc97fff2213a20544661f032b3
+
+
