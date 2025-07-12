@@ -13,6 +13,7 @@ This project utilizes object detection algorithms to analyze football matches vi
 ##Output
 See the Output of the model in the output folder. 
 
+
 ##How to Run 
 - To run the model from scratch go through the Football_project.ipynb file
 - or , To run the inference only run the main.py file
