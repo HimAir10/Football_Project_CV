@@ -13,6 +13,11 @@ This project utilizes object detection algorithms to analyze football matches vi
 ##Output
 See the Output of the model in the output folder. 
 
+##How to Run 
+- To run the model from scratch go through the Football_project.ipynb file
+- or , To run the inference only run the main.py file
+- I did not uploaded the weights because its size is over 100 mb so github didn't allowed me for that, although i am providing the link for the weights of yolo v11 model on which i  run the finetuning. https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view
+- Just upload this weights on the path shown in the code in Football_project.ipynb file and finetune the model and then run main.py file for inference on the video.
 
 
 </details>
